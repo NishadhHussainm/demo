@@ -3,6 +3,7 @@ int main()
 {
     printf("hi");
     printf("hello");
-    printf("master");
+    //printf("master");
     printf("Nish");
+    printf("Old");
 }
